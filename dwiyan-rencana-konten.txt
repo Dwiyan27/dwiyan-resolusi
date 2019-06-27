@@ -3,6 +3,8 @@ RENCANA KONTEN DWIYAN
 - JAVASCRIPT
   * ES6
   *Framework JS
-- css
+  ^angular
+  ^react
 - PHP Framework
+  ^laravel
 - Interview
