@@ -4,6 +4,7 @@ RENCANA KONTEN DWIYAN
   * ES6
   *Framework JS
     ^vue
+    ^react
 - css
 - PHP Framework
     ^laravel
