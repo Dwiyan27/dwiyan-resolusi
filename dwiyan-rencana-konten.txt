@@ -1,0 +1,7 @@
+RENCANA KONTEN DWIYAN
+
+- JAVASCRIPT
+  * ES6
+  *Framework JS
+- PHP Framework
+- Interview
