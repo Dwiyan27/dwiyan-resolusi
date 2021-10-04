@@ -1,12 +1,7 @@
 RENCANA KONTEN DWIYAN
 
-- JAVASCRIPT
-  * ES6
-  *Framework JS
-    ^vue
-    ^react
+- html
 - css
-- PHP Framework
-    ^laravel
-- Interview
-- Phyton
+- css framework
+- github
+- javascript
