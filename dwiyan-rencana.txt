@@ -8,4 +8,5 @@ RENCANA KONTEN DWIYAN
 - github
 - javascript
  * vue js
+ * react js
 - framework javascript
