@@ -7,4 +7,5 @@ RENCANA KONTEN DWIYAN
  * Tailwind
 - github
 - javascript
+ * vue js
 - framework javascript
